@@ -1,0 +1,9 @@
+<resources>
+    <string name="views">%s views</string>
+    <string name="by_author">By %s</string>
+    <string name="time_ago">%s ago</string>
+    <string name="pair_with_dash">%s - %s</string>
+    <string name="featured">Featured</string>
+    <string name="network_error">Network Error</string>
+    <string name="share">Share</string>
+</resources>
